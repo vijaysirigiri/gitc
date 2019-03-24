@@ -1,0 +1,2 @@
+# gitc
+git clone
